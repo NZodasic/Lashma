@@ -1,13 +1,13 @@
-package com.example.webapp;
+package com.example.lashma;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebappApplication {
+public class LashmaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebappApplication.class, args);
+		SpringApplication.run(LashmaApplication.class, args);
 	}
 
 }

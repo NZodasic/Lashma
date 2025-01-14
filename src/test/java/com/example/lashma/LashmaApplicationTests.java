@@ -1,10 +1,10 @@
-package com.example.webapp;
+package com.example.lashma;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WebappApplicationTests {
+class LashmaApplicationTests {
 
 	@Test
 	void contextLoads() {
